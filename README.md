@@ -9,8 +9,8 @@ Type in Up Arrow, to increment the counter.
 Type in Down Arrow, to decrement the conter.
 
 Print Screens:
-![Home Screen](https://github.com/eds16/app-count/images/screen01.png)
-![Show Full Screen](https://github.com/eds16/app-count/images/screen02.png)
+![Home Screen](https://github.com/eds16/app-count/blob/main/images/screen01.png)
+![Show Full Screen](https://github.com/eds16/app-count/blob/main/images/screen02.png)
 
 Author Edson Cassiano, September, 2023.
 
