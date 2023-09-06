@@ -1,6 +1,18 @@
-# app1
+# People Counter
 
-A new Flutter project.
+First lesson to Mobile development course.
+
+The goal is implement a People Counter and it has show in the screen a count.
+When the counter is in 20 show the message full and can enter message otherwise.
+
+Type in Up Arrow, to increment the counter.
+Type in Down Arrow, to decrement the conter.
+
+Print Screens:
+![Home Screen](https://github.com/eds16/app-count/images/screen01.png)
+![Show Full Screen](https://github.com/eds16/app-count/images/screen02.png)
+
+Author Edson Cassiano, September, 2023.
 
 ## Getting Started
 
